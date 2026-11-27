@@ -22,7 +22,7 @@
     {
       "relation": "isSupplementTo",
       "scheme": "url",
-      "identifier": "https://github.com/KurathSec/Spaghetti-Architect"
+      "identifier": "https://github.com/kureist/Spaghetti-Architect"
     },
     {
       "relation": "isDocumentedBy",

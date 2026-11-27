@@ -16,7 +16,7 @@ type: software
 version: "0.3.0"
 date-released: "2026-08-14"
 license: "MIT"
-repository-code: "https://github.com/KurathSec/Spaghetti-Architect"
+repository-code: "https://github.com/kureist/Spaghetti-Architect"
 # Concept DOI — always resolves to the latest archived version (so it survives releases).
 doi: "10.5281/zenodo.21033174"
 identifiers:

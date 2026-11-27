@@ -27,7 +27,7 @@
   "name": "spaghetti-architect-bench-dev",
   "description": "Public 'dev' split of the Spaghetti Architect benchmark: 100 by-construction-labelled code instances (50 base + 50 variant) across seven families. Each instance is a program rendered from a clean JSON intermediate representation (IR) of four operation primitives (KEY_VALUE_LOOKUP, MEMBERSHIP_CHECK, AGGREGATE, CONDITIONAL_SELECT), located on four axes: incidental complexity (a strictly-nested 6-level messiness knob at identical semantics: clean < minimal < light < standard < heavy < max), intrinsic complexity (per-family scale knobs N/L/W/T and operation count), language (python, javascript, go, java, cpp), and input variant (v0..v4). Labels (oracle output, the known-optimal clean baseline, knob coordinates, the enabled SPAGH_* anti-pattern set) are correct by construction, computed deterministically from the IR with seed 20260619. A separate held-out 'test' split is private and not included here. Dataset versions: 2.0 (bench/data/dev/, the frozen split every published number binds to) and the additive 2.1 (bench/data/dev_v2.1/: 107 instances = 2.0's families rebalanced with scaled status_router/discovery_pipeline bases plus the fsm prior-twin probe, rendered under engine spec 2.1 and carrying per-instance canary inputs; no model numbers exist for 2.1 yet).",
   "license": "https://spdx.org/licenses/MIT.html",
-  "url": "https://github.com/KurathSec/Spaghetti-Architect",
+  "url": "https://github.com/kureist/Spaghetti-Architect",
   "version": "2.1",
   "isLiveDataset": false,
   "keywords": [
@@ -47,7 +47,7 @@
       "@id": "github-repository",
       "name": "github-repository",
       "description": "The Spaghetti Architect repository hosting the dataset. The citeable archival snapshot is the Zenodo deposit under the concept DOI 10.5281/zenodo.21033174, which always resolves to the latest archived version (see citeAs).",
-      "contentUrl": "https://github.com/KurathSec/Spaghetti-Architect",
+      "contentUrl": "https://github.com/kureist/Spaghetti-Architect",
       "encodingFormat": "git+https"
     },
     {

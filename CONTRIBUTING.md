@@ -9,7 +9,7 @@ program, in every target language, **compiles, runs, and matches the oracle**.
 No build step. Clone and run from the repository root:
 
 ```bash
-git clone https://github.com/KurathSec/Spaghetti-Architect.git
+git clone https://github.com/kureist/Spaghetti-Architect.git
 cd Spaghetti-Architect
 python3 -m src.main                      # runs the bundled example suite
 ```

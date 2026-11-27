@@ -156,7 +156,7 @@ machine-readable record for the same split is in [`croissant.json`](croissant.js
 ## Distribution
 
 - **How distributed?** With the tool on GitHub
-  (<https://github.com/KurathSec/Spaghetti-Architect>) under the **MIT** license; also
+  (<https://github.com/kureist/Spaghetti-Architect>) under the **MIT** license; also
   described by this datasheet, the Croissant record (`croissant.json`), and the paper
   appendix. The public `dev` split is in the repository; the `test` split's instance
   files are private and withheld by design. The raw model completions on the test split

@@ -35,9 +35,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/KurathSec/Spaghetti-Architect"
-Repository = "https://github.com/KurathSec/Spaghetti-Architect"
-Issues = "https://github.com/KurathSec/Spaghetti-Architect/issues"
+Homepage = "https://github.com/kureist/Spaghetti-Architect"
+Repository = "https://github.com/kureist/Spaghetti-Architect"
+Issues = "https://github.com/kureist/Spaghetti-Architect/issues"
 
 [project.scripts]
 spaghetti-architect = "src.main:main"

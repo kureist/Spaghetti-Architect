@@ -255,7 +255,7 @@ code+dataset repository. See [`bench/`](bench/) and [`REQUIREMENTS.md`](REQUIREM
 No build or install step — clone the repo and run from its root:
 
 ```bash
-git clone https://github.com/KurathSec/Spaghetti-Architect.git
+git clone https://github.com/kureist/Spaghetti-Architect.git
 cd Spaghetti-Architect
 python3 -m src.main          # runs the bundled example suite
 ```
